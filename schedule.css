@@ -1,0 +1,61 @@
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+        }
+
+         th,td {
+            border: 1px solid #333;
+            text-align: center;
+            padding: 10px;
+            
+            
+        }
+
+        th {
+            background: #eee;
+            font-weight: bold;
+            background-color: yellow;
+
+        }
+        td{
+            background-color: yellow;
+        }
+        .os{
+            background-color: red;
+            color: white;
+            
+        }
+        .seminar{
+            color: white;
+            background-color: rgb(37, 37, 109);
+        }
+        .web{
+            color: white;
+            background-color: rgb(39, 159, 99);
+
+        }
+        .sysadmin{
+            color:white;
+            background-color: purple;
+        }
+
+        .ccna{
+            color:white;
+            background-color: rgb(119, 36, 6);
+        }
+        .datacom{
+            color:white;
+            background-color: blue
+
+        }
+        .break{
+            color:white;
+            background-color: rgb(1, 41, 41);
+
+            
+        }
+         
+
+
